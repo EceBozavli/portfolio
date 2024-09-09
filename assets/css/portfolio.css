@@ -1,0 +1,174 @@
+* {
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: system-ui;
+  
+}
+
+.container{
+  margin-inline: auto;
+  background-color: #fff;
+  background-repeat: no-repeat;
+  background-position: top center;
+  font-family: 'Montserrat';
+  color: #212121;
+  width: 1440px;
+  text-align: left;
+  
+}
+
+.container p {
+  margin-top: 184px;
+  margin-left: 155px;
+  margin-bottom: 12px;
+  font-size: 30px;
+  font-weight: 400;
+  line-height: 37px;
+  text-align: left;
+  /*width: 254px;*/
+  margin-bottom: 12px;
+  text-align: left; 
+}
+
+.square{
+  margin-left: 1376px;
+}
+
+
+.container  h2 {
+font-family: 'Montserrat';
+font-size: 60px;
+font-weight: 600;
+line-height: 70px;
+text-align: left;
+margin-left: 155px;
+margin-bottom: 40px;
+}
+
+.social-media {
+  margin-left: 155px;
+  display: flex;
+  gap: 32px;
+}
+
+
+.container h3 {
+  margin-left: 165px;
+  margin-top: 200px;
+  margin-bottom: 40px;
+  font-family: 'Montserrat';
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 37px;
+  text-align: left;
+}
+
+
+
+.projects{
+  display: flex;
+  flex-direction: column;
+  gap: 64px;
+  text-align: left;
+  color: #212121;
+  width: 1110px;
+  margin-left: 165px;
+  border-radius: 12px;
+  /*border: 1px solid #C4C4C4*/
+}
+.KFC {
+  border-radius: 12px;
+  border: 1px solid #C4C4C4
+}
+.KFC img{
+  margin: 24px;
+  border-radius: 12px;
+}
+
+.projects h2 {
+  margin-left: 24px;
+  text-align: left;
+  font-family: 'Montserrat';
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 37px;
+
+}
+
+.projects p {
+  margin-top: 2px;
+  margin-left: 24px;
+  font-family: 'Open Sans';
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 28px;
+  text-align: left;
+
+}
+
+.projects a {
+  margin-left: 24px;
+  text-decoration: none;
+  font-family: 'Montserrat';
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 24px;
+  color: #212121;
+}
+
+.projects a img {
+  vertical-align: middle;
+}
+
+.projects img {
+  margin: 24px;
+  border-radius: 12px;
+}
+
+.humans {
+  border-radius: 12px;
+  border: 1px solid #C4C4C4
+}
+
+/*.humans img{
+  margin: 24px;
+  border-radius: 12px;
+}*/
+
+.coffee {
+  border-radius: 12px;
+  border: 1px solid #C4C4C4
+}
+/*.coffee img{
+  margin: 24px;
+  border-radius: 12px;
+}*/
+
+h6 {
+  margin-left: 165px;
+  margin-top: 200px;
+  margin-bottom: 16px;
+  font-family: 'Montserrat';
+  font-size: 20px;
+  font-weight: 600;
+  line-height: 30px;
+  text-align: left;
+}
+
+h1 {
+  margin-left: 165px;
+  font-family: 'Montserrat';
+  font-size: 40px;
+  font-weight: 600;
+  line-height: 48px;
+  text-align: left;
+  width: 569px;
+  padding-bottom: 339px;
+
+}
+ h1 strong {
+  color: blue;
+ }
